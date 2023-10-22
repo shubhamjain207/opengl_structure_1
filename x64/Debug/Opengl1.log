@@ -1,0 +1,5 @@
+﻿  Source2.cpp
+D:\Sdl2\Opengl1\Opengl1\Shader.h(72,8): warning C4101: 'infoLog': unreferenced local variable
+D:\Sdl2\Opengl1\Opengl1\Shader.h(164,53): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+D:\Sdl2\Opengl1\Opengl1\Source2.cpp(19,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Opengl1.vcxproj -> D:\Sdl2\Opengl1\x64\Debug\Opengl1.exe
